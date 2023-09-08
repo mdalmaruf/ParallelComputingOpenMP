@@ -66,15 +66,15 @@ A comprehensive analysis of the findings is available in the report, showcasing 
 
 Please refer to the project report for detailed analysis, including graphical representations of performance comparisons and detailed insights into the execution times observed under various conditions.
 
-![Matrix multiplication program interface](link-to-your-image-here)
+![Matrix multiplication program interface](Data/interface.PNG)
 
 *Figure 1: Matrix multiplication program interface*
 
-![Serial vs. parallel execution comparison](link-to-your-second-image-here)
+![Serial vs. parallel execution comparison](Data/ParallelExecution.PNG)
 
 *Figure 2: Serial vs. parallel execution comparison*
 
-![Execution time for No Compiler Optimization and Aggressive Compiler Optimization](link-to-your-third-image-here)
+![Execution time for No Compiler Optimization and Aggressive Compiler Optimization](Data/Optimized_Parallel_Execution_grpah.png)
 
 *Figure 3: Execution time for No Compiler Optimization and Aggressive Compiler Optimization*
 
